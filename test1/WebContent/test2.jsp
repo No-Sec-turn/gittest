@@ -7,6 +7,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-test입니다
+<h1>test입니다</h1>
+
+<h2>2번째 commit</h2>
 </body>
 </html>
