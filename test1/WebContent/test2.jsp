@@ -13,7 +13,11 @@
 
     <h3> 수정했습니다 </h3>
     
+<<<<<<< HEAD
     
     <h4>eclipse에서 수정했습니다.</h4>
+    <h4>github에서 수정했습니다!!</h4>
+    병합 완료 후 commit - push
+
 </body>
 </html>
